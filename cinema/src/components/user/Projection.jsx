@@ -55,5 +55,5 @@ class Projection extends Component {
       );
     }
 }
-
+//komentar
 export default withRouter(Projection);
